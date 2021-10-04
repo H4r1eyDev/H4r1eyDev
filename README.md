@@ -7,3 +7,31 @@
 
 I want to have a badge on here. Someone help me get a badge. If I get a badge I'll release something cool.
 
+```js
+const Discord = require('discord.js');
+const client = new Discord.Client();
+const MainLanguage = Discord; 
+const color = require('chalk')
+const botPrefix = '!'
+const botToken = 'You tryna steal my bot token or wat!'
+
+const coolPerson = 'Harley'
+
+const whoIsCool = ''
+
+if(whoIsCool !== coolPerson) {
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  process.exit();
+}
+
+
+client.login(botToken);
+
+// Yes. You can use this for an example to make a Discord Bot.
