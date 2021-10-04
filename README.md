@@ -6,7 +6,3 @@
 
 
 I want to have a badge on here. Someone help me get a badge. If I get a badge I'll release something cool.
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=H4r1eyDev&&show_icons=true&title_color=00ffe8&icon_color=bb2acf&text_color=00ffe8&bg_color=151515" />
