@@ -6,3 +6,12 @@
 
 
 I want to have a badge on here. Someone help me get a badge. If I get a badge I'll release something cool.
+
+```const coolPerson = 'HarleyDev';
+
+client.on("message", () => {
+  if(message.content.includes('!whoiscool')) {
+    message.channel.send(coolPerson);
+    console.log('The cool person\'s name has been said within a channel!');
+  }
+})```
