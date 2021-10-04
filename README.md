@@ -20,14 +20,14 @@ const coolPerson = 'Harley'
 const whoIsCool = ''
 
 if(whoIsCool !== coolPerson) {
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
-  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!')
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
+  console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
   process.exit();
 }
 
