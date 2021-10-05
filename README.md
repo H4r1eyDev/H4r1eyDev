@@ -17,7 +17,7 @@ const botToken = 'You tryna steal my bot token or wat!'
 
 const coolPerson = 'Harley'
 
-const whoIsCool = ''
+const whoIsCool = 'PUT THE COOL PERSON\'S NAME HERE!'
 
 if(whoIsCool !== coolPerson) {
   console.log(color.red(`[SYSTEM]:) + 'That is the wrong answer!'))
